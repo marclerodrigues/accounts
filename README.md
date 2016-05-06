@@ -18,6 +18,13 @@ Create database and run migrations:
 ```
 $ rake db:migrate
 ```
+Run your server:
+```
+$ rails s
+```
+
+And you can access the app at http://localhost:3000/
+
 ## Contributing
 
 1. Fork it ( https://github.com/marclerodrigues/accounts/fork )
